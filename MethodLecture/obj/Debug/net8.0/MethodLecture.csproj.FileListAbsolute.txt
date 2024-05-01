@@ -1,0 +1,14 @@
+C:\Users\ramse\source\repos\MethodLecture\MethodLecture\bin\Debug\net8.0\MethodLecture.exe
+C:\Users\ramse\source\repos\MethodLecture\MethodLecture\bin\Debug\net8.0\MethodLecture.deps.json
+C:\Users\ramse\source\repos\MethodLecture\MethodLecture\bin\Debug\net8.0\MethodLecture.runtimeconfig.json
+C:\Users\ramse\source\repos\MethodLecture\MethodLecture\bin\Debug\net8.0\MethodLecture.dll
+C:\Users\ramse\source\repos\MethodLecture\MethodLecture\bin\Debug\net8.0\MethodLecture.pdb
+C:\Users\ramse\source\repos\MethodLecture\MethodLecture\obj\Debug\net8.0\MethodLecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramse\source\repos\MethodLecture\MethodLecture\obj\Debug\net8.0\MethodLecture.AssemblyInfoInputs.cache
+C:\Users\ramse\source\repos\MethodLecture\MethodLecture\obj\Debug\net8.0\MethodLecture.AssemblyInfo.cs
+C:\Users\ramse\source\repos\MethodLecture\MethodLecture\obj\Debug\net8.0\MethodLecture.csproj.CoreCompileInputs.cache
+C:\Users\ramse\source\repos\MethodLecture\MethodLecture\obj\Debug\net8.0\MethodLecture.dll
+C:\Users\ramse\source\repos\MethodLecture\MethodLecture\obj\Debug\net8.0\refint\MethodLecture.dll
+C:\Users\ramse\source\repos\MethodLecture\MethodLecture\obj\Debug\net8.0\MethodLecture.pdb
+C:\Users\ramse\source\repos\MethodLecture\MethodLecture\obj\Debug\net8.0\MethodLecture.genruntimeconfig.cache
+C:\Users\ramse\source\repos\MethodLecture\MethodLecture\obj\Debug\net8.0\ref\MethodLecture.dll
